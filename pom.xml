@@ -6,7 +6,7 @@
 	<description>活动风控相关内容</description>
 
 	<parent>
-		<groupId>com.wanda.riskcenter</groupId>
+		<groupId>com.wandriskcenter</groupId>
 		<artifactId>risk-center-all</artifactId>
 		<version>1.0-SNAPSHOT</version>
 		<relativePath>../all</relativePath>

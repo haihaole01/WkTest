@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>risk-center-activity</artifactId>
 	<name>risk-center-activity</name>
-	<description>活动风控相关内容</description>
+	<description>活动风控相关</description>
 
 	<parent>
 		<groupId>com.wandriskcenter</groupId>
